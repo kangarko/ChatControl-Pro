@@ -1,4 +1,4 @@
-If you are using ChatControl free, please (https://github.com/kangarko/ChatControl/wiki) visit [this page](http://github.com/kangarko/ChatControl/issues) for support.
+###If you are using ChatControl free, please visit [this page](http://github.com/kangarko/ChatControl/issues) for support.
 
 ChatControl Pro
 ===============
