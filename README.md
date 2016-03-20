@@ -2,10 +2,9 @@
 
 ChatControl Pro
 ===============
-ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features that allows server owners to replace many other plugins with one.
+ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features that allow server owners to replace many other plugins with only one.
 
-All issues, feature requests or complaints of the Pro version 
-shall be directed here to the Issues section.
+All issues, feature requests or complaints of the Pro version shall be directed here to the Issues section.
 
 Features
 ========
@@ -22,6 +21,5 @@ Check out https://spigotmc.org/resources/10258 for more information.
 
 Links
 =====
-
  * [Homepage](https://spigotmc.org/resources/10258)
  * [ChatControl's Wiki](https://github.com/kangarko/ChatControl/wiki)
