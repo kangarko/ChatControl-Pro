@@ -1,6 +1,27 @@
-#### If you are using ChatControl free, please visit following page for support: https://github.com/kangarko/ChatControl/issues
+If you are using ChatControl free, please (https://github.com/kangarko/ChatControl/wiki) visit [this page](http://github.com/kangarko/ChatControl/issues) for support.
+
+ChatControl Pro
+===============
+ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features that allows server owners to replace many other plugins with one.
 
 All issues, feature requests or complaints of the Pro version 
-shall be directed here to the Issues section
+shall be directed here to the Issues section.
 
-#### Official site: https://www.spigotmc.org/resources/10258
+Features
+========
+ * BungeeCords Support
+ * Warn & Point System
+ * Interactive JSON Chat
+ * Chat Channels
+ * Infinite and Custom Placeholder Creation
+ * Rules for Books, Items and More
+ * Creating Rules Ingame
+ * Support for JavaScript and Java's Reflections
+
+Check out https://spigotmc.org/resources/10258 for more information.
+
+Links
+=====
+
+ * [Homepage](https://spigotmc.org/resources/10258)
+ * [ChatControl's Wiki](https://github.com/kangarko/ChatControl/wiki)
