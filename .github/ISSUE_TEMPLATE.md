@@ -5,7 +5,7 @@
 [ ] you run the very latest version of Chatcontrol Pro available
 [ ] your issue has not been already reported by someone else. Use search.
 
-####Data:
+#### Data:
 CraftBukkit / Spigot version:
 ChatControl version:
 
