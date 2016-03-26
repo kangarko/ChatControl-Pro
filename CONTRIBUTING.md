@@ -13,6 +13,9 @@
 [ ] the issue is actually caused by this plugin.
 
 #### Data:
+
+YOU DON'T NEED TO STICK TO THE TEMPLATE AS LONG AS ALL RELEVANT DATA ARE PROVIDED.
+
 1. Server version: (if unsure, paste the content of /version command))
 
 2. ChatControl version:
