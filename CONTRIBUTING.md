@@ -13,13 +13,15 @@
 [ ] the issue is actually caused by this plugin.
 
 #### Data:
-Server version: (if unsure, paste the content of /version command))
+1. Server version: (if unsure, paste the content of /version command))
 
-ChatControl version:
+2. ChatControl version:
 
-Plugins that might affect plugin: (usualy those which have same features like DeluxeChat, ...)
+3. Relevant plugins: (usualy those which have same features like DeluxeChat, ...)
 
-If you have an obvious issue with one or more of your configuration file/s include them as well:
+4. How to reproduce.
+
+(5.) If you have an obvious issue with one or more of your configuration file/s include them as well:
 
 ```
 Upload (the effective part of the) affected file on pastebin.net
