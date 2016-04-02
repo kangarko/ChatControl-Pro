@@ -1,16 +1,16 @@
 #### Before creating a new issue report please ensure that
 
-- you have ChatControl Pro. Dear free users, please go to the [proper repository.](https://github.com/kangarko/ChatControl/issues)
+1. You have **ChatControl Pro**. Dear free users, please go to the [proper repository.](https://github.com/kangarko/ChatControl/issues)
 
-- you run newest version of Chatcontrol Pro.
+2. You actually have the **latest version of Chatcontrol Pro**.
 
-- you run newest Spigot for your server version (latest 1.9, etc.) and BuildTools. If unsure run BuildTools again and restart your server with the new built jar. Also make sure your BuildTools.jar is up-to-date as well.
+3. You run **newest Spigot** for your server version (latest 1.9, last 1.8.8 build, etc.) and BuildTools.
 
-- you run newest versions of dependency plugins, especially ProtocolLib, PlaceholderAPI, AuthMe, Essentials, and so on.
+4. You run **newest versions** of dependencies (especially ProtocolLib, PlaceholderAPI, AuthMe, Essentials, etc.)
 
-- no similar issue already exists. [(Use Search)](https://github.com/kangarko/ChatControl-Pro/issues?utf8=%E2%9C%93&q=)
+5. No **similar** issue already exists. [(Use Search)](https://github.com/kangarko/ChatControl-Pro/issues?utf8=%E2%9C%93&q=)
 
-- the issue is actually caused by this plugin.
+6. The issue is actually caused by this plugin.
 
 #### Data:
 
