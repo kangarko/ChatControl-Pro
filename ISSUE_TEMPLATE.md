@@ -1,1 +1,1 @@
-Make you read https://github.com/kangarko/ChatControl-Pro/blob/master/CONTRIBUTING.md before
+Before opening your report make sure you read the  guidelines for contributing as mentioned above!
