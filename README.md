@@ -1,5 +1,7 @@
 ###If you are using ChatControl free, please visit [this page](http://github.com/kangarko/ChatControl/issues) for support.
 
+###Before opening a report ensure you read the guidelines for contributing!
+
 ChatControl Pro
 ===============
 ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features that allow server owners to replace many other plugins with only one.
