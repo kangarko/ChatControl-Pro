@@ -1,3 +1,7 @@
+#### Rules
+1. The administrator has right to close solved or irrelevant issues.
+2. Your issue might be closed if we haven't received a response within 7 days of our reply.
+
 #### Before creating a new issue report please ensure that
 
 1. You have **ChatControl Pro**. Dear free users, please go to the [proper repository.](https://github.com/kangarko/ChatControl/issues)
