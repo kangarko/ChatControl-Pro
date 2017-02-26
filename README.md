@@ -1,8 +1,4 @@
-###Using free version? Visit [this page](http://github.com/kangarko/ChatControl/issues) for support.
-
-###Read the guidelines before posting!
-
-###ChatControl's Wiki/Help? See below.
+Attention: Use the free version? Read [this](https://github.com/kangarko/ChatControl/wiki/Submitting-Issues) and get support [here](https://github.com/kangarko/ChatControl/issues).
 
 ChatControl Pro
 ===============
