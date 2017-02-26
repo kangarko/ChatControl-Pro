@@ -1,4 +1,6 @@
-Attention: Use the free version? Read [this](https://github.com/kangarko/ChatControl/wiki/Submitting-Issues) and get support [here](https://github.com/kangarko/ChatControl/issues).
+## Attention: Use the free version? Read [this](https://github.com/kangarko/ChatControl/wiki/Submitting-Issues) and get support [here](https://github.com/kangarko/ChatControl/issues).
+
+## Read [this](https://github.com/kangarko/ChatControl/wiki/Submitting-Issues) before submitting an issue.
 
 ChatControl Pro
 ===============
