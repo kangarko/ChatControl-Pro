@@ -12,6 +12,6 @@ ChatControl Pro is an expanded version of the popular ChatControl plugin, bringi
 
 You are welcome to read the **[ChatControl Wikipedia](https://github.com/kangarko/ChatControl-Pro/wiki)**, where you fill find tons of information about the installation, configuring and using this plugin.
 
-If you have any **questions or bugs to report**, try seeing if [those can be resolved quickly](https://github.com/kangarko/ChatControl-Pro/wiki/Common-Issues) by yourself. If that does not help, you are welcome to **fill an issue**. Please read the [how to get help the best way](https://github.com/kangarko/ChatControl-Pro/wiki/Getting-Help-the-Right-Way) to obtain help as quickly as possible.
+If you have any **questions or bugs to report**, try seeing if [those can be resolved quickly](https://github.com/kangarko/ChatControl-Pro/wiki/Common-Issues) by yourself. If that does not help, you are welcome to **fill an issue**. Please read the [Getting Help the Best Way](https://github.com/kangarko/ChatControl-Pro/wiki/Getting-Help-the-Right-Way) to obtain help as quickly as possible.
 
 Check out https://spigotmc.org/resources/10258 for more information.
