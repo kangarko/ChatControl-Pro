@@ -1,10 +1,15 @@
 # Thank you for using ChatControl!
 
-### > Please give it 5 minutes on the [Wiki](https://github.com/kangarko/ChatControl-Pro/wiki) before posting an issue :)
+## Before you open an issue, please do:
+> Take 2 minutes and try to find an answer [here](https://github.com/kangarko/ChatControl-Pro/wiki) (use CTRL + F) :)
 
-### > Use CTRL + F for searching.
-
-### > Post your settings.yml uploaded to pastebin.com (make sure you remove MySQL information).
+## WHEN YOU OPEN AN ISSUE, WE NEED TO KNOW:
+> Your ChatControl version.
+> Minecraft version.
+> Upload settings.yml (also channels.yml, chat.yml, or rules/ folder, if the issue is relevant to any) to pastebin.com.
+> Tell us an easy way to reproduce the problem.
 
 ### When posting:
-Take 3 minutes to read this quick [Issue Guide](https://github.com/kangarko/ChatControl-Pro/wiki/Getting-Help-the-Right-Way), because it will provide you all necessary information regarding sending issues and asking questions the right way.
+Read this quick [Issue Guide](https://github.com/kangarko/ChatControl-Pro/wiki/Getting-Help-the-Right-Way), because it will provide you all necessary information regarding sending issues and asking questions the right way.
+
+# MAKE SURE TO FOLLOW THE STEPS HERE OTHERWISE WE ARE WASTING TIME AND YOU WON´T GET A PROPER HELP
