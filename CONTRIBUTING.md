@@ -17,7 +17,7 @@
 5. **Any other plugins that can interfere?** Any chat-related plugin like DeluxeChat/FactionsChat/ etc.?
 
 ````
-Upload (the effective part of the) affected file(s) on pastebin.net
+Upload (the effective part of the) affected file(s) on pastebin.com
 ````
 
 # When Posting
