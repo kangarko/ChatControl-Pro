@@ -1,5 +1,4 @@
-# FOLLOW THE STEPS HERE TO AVOID TIME WASTE AND GET HELP QUICKER. THANK YOU.
-
+# Follow Steps Below to Avoid Time Waste & Get Help Quicker. Thank You.
 
 # Thank You for Using ChatControl Pro!
 
