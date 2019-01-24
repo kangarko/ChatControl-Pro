@@ -1,3 +1,12 @@
+<p align="center">
+  Do you want to easily code your own ChatControl Pro?
+  <a href="https://www.spigotcourse.org/?utm_source=github&utm_medium=github">
+    <img src="https://i.imgur.com/Xr0p2g3.png" />
+  </a>
+</p>
+
+---
+
 # ChatControl Pro
 ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features such as
 
