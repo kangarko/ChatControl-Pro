@@ -7,6 +7,8 @@
 
 ---
 
+## Important - This page will be discontinued soon, please visit https://support.mineacademy.org for documentation and support.
+
 # ChatControl Pro
 ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features such as
 
