@@ -8,8 +8,8 @@
 # ChatControl Pro
 ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features such as
 
-* BungeeCords support
-* Warn&Point system
+* BungeeCord support
+* Warn & Point system
 * Interactive JSON chat
 * Channels for chat
 * Thousands of placeholders
