@@ -22,3 +22,10 @@ You are welcome to read the **[ChatControl Wikipedia](https://github.com/kangark
 If you have any **questions or bugs to report**, try seeing if [those can be resolved quickly](https://github.com/kangarko/ChatControl-Pro/wiki/Frequently-Asked-Questions) by yourself. If that does not help, you are welcome to **fill an issue**. Please read the [Getting Help the Best Way](https://github.com/kangarko/ChatControl-Pro/wiki/Getting-Help-the-Right-Way) to obtain help as quickly as possible.
 
 Check out https://spigotmc.org/resources/10258 for more information.
+
+<hr>
+
+Dave Thomas, founder of OTI, godfather of the Eclipse strategy:
+
+<i>Clean code can be read, and enhanced by a developer other than its original author. It has unit and acceptance tests. It has meaningful names. It provides one way rather than many ways for doing one thing. It has minimal dependencies, which are explicitly defined, and provides a clear and minimal API. Code should be literate since depending on the language, not all necessary information can be expressed clearly in code alone.</i>
+
