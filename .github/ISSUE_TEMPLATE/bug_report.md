@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 <!---
+**IMPORTANT:** Do NOT post error logs here, use pastebin.com to upload them and post us a link!
+
 To report a problem or a bug with this plugin, please follow the three steps below:
 
 1) Put your Minecraft version in the title.
