@@ -1,9 +1,11 @@
 <p align="center">
   Do you want to build your own ChatControl Pro with unique features only for your server?
   <a href="https://mineacademy.org/gh-join">
-    <img src="https://i.imgur.com/SuIyaDV.png" />
+    <img src="https://i.imgur.com/HGc2VG3.png" />
   </a>
 </p>
+
+## Announcement: This plugin has been replaced by [ChatControl Red](https://mineacademy.org/chatcontrol-red). You can now download ChatControl Pro free of charge in the "Releases" tab.
 
 # ChatControl Pro
 ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features such as
@@ -20,8 +22,6 @@ ChatControl Pro is an expanded version of the popular ChatControl plugin, bringi
 You are welcome to read the **[ChatControl Wikipedia](https://github.com/kangarko/ChatControl-Pro/wiki)**, where you fill find tons of information about the installation, configuring and using this plugin.
 
 If you have any **questions or bugs to report**, try seeing if [those can be resolved quickly](https://github.com/kangarko/ChatControl-Pro/wiki/Frequently-Asked-Questions) by yourself. If that does not help, you are welcome to **fill an issue**. Please read the [Getting Help the Best Way](https://github.com/kangarko/ChatControl-Pro/wiki/Getting-Help-the-Right-Way) to obtain help as quickly as possible.
-
-Check out https://spigotmc.org/resources/10258 for more information.
 
 <hr>
 
