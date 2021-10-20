@@ -5,7 +5,7 @@
   </a>
 </p>
 
-## Announcement: This plugin has been replaced by [ChatControl Red](https://mineacademy.org/chatcontrol-red). You can now download ChatControl Pro free of charge in the "Releases" tab.
+## Announcement: This plugin has been replaced by [ChatControl Red](https://mineacademy.org/chatcontrol-red). All buyers can upgrade for free.
 
 # ChatControl Pro
 ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features such as
