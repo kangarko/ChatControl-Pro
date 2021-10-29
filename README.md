@@ -1,11 +1,11 @@
+# We have left SpigotMC and [continue ChatControl development here](https://www.mc-market.org/resources/18217/). If you purchased the plugin on SpigotMC you can get a free license upgrade.
+
 <p align="center">
   Do you want to build your own ChatControl Pro with unique features only for your server?
   <a href="https://mineacademy.org/gh-join">
     <img src="https://i.imgur.com/TgLAJUg.png" />
   </a>
 </p>
-
-## Announcement: This plugin has been replaced by [ChatControl Red](https://mineacademy.org/chatcontrol-red). All buyers can upgrade for free.
 
 # ChatControl Pro
 ChatControl Pro is an expanded version of the popular ChatControl plugin, bringing many enhancements and improvements over the free version, along with exclusive features such as
