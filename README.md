@@ -1,4 +1,4 @@
-# We have left SpigotMC and [continue ChatControl development here](https://www.mc-market.org/resources/18217/). If you purchased the plugin on SpigotMC you can get a free license upgrade.
+# We have left SpigotMC and [continue ChatControl development here](https://www.mc-market.org/resources/18217/). Everyone gets a FREE upgrade, [click this link](https://mineacademy.org/chatcontrol-red) to apply.
 
 <p align="center">
   Do you want to build your own ChatControl Pro with unique features only for your server?
