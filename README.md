@@ -1,9 +1,9 @@
 # We have left SpigotMC and [continue ChatControl development here](https://www.mc-market.org/resources/18217/). Everyone gets a FREE upgrade, [click this link](https://mineacademy.org/chatcontrol-red#upgrade) to apply.
 
 <p align="center">
-  Do you want to build your own ChatControl Pro with unique features only for your server?
-  <a href="https://mineacademy.org/gh-join">
-    <img src="https://i.imgur.com/TgLAJUg.png" />
+  Do you want to learn Java and code highly-customized Minecraft plugins? I've made a training for you!
+  <a href="https://mineacademy.org/project-orion">
+    <img src="https://i.imgur.com/OJuN0qP.png" />
   </a>
 </p>
 
