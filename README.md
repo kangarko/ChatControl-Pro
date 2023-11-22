@@ -1,4 +1,4 @@
-# We have left SpigotMC and [continue ChatControl development here](https://www.mc-market.org/resources/18217/). Everyone gets a FREE upgrade, [click this link](https://mineacademy.org/chatcontrol-red#upgrade) to apply.
+# SpigotMC.org banned us and is censoring "MineAcademy" mentions. We're still active. [Read more here](https://mineacademy.org/spigotmc-ban?st=github&sc=spigotban_ccp).
 
 <p align="center">
   Learn Java and code highly-customized Minecraft plugins in 20 days (without experience):
